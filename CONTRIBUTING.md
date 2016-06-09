@@ -31,7 +31,7 @@ Before we're able to merge your code into the ownCloud app for Android, you need
 * For your first contribution, start a pull request on develop and send us the signed [Contributor Agreement][agreement].
 * Keep on using pull requests for your next contributions although you own write permissions.
 
-[agreement]: http://owncloud.org/about/contributor-agreement/
+[agreement]: http://owncloud.org/about/contributor-agreement
 
 ## Translations
 Please submit translations via [Transifex][transifex].
